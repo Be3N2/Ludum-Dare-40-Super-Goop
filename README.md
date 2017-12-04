@@ -8,6 +8,10 @@ Super Goop!
 Made in 48 hours for the Ludum dare compo. 
 http://ldjam.com/
 
+My submission page on Ludum Dare:
+https://ldjam.com/events/ludum-dare/40/$65127
+
+
 If you want to try it out, just grab the jar.
 The rest is the source code, and if your interested to look through that
 go ahead and good luck, it was cobbled together rather quickly to get it 
