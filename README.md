@@ -1,21 +1,23 @@
-# Ludum-Dare-40-Super-Goop
+# Super Goop - Ludum Dare 40
+Made in 48 hours for the [Ludum Dare](https://ldjam.com) compo.
+The [submission page](https://ldjam.com/events/ludum-dare/40/super-goop) is on Ludum Dare.
 
+## To start playing, [download the jar file](SuperGoop1.jar)
 
+## Summary
+Run past, or through, the goop to complete the level.
+The goop will change the game as it causes different affects after hitting the player.
+Initially a build up of goop on the player will lessen gravity and is key to completing the levels so be careful!
+Too much goop on the player and he won’t be able to complete it at all, and the more goop the often more difficult it gets to control.
+There are five levels and after beating them it will repeat level 5 over and over again.
 
-Super Goop!
-======
+## Tools used
+This project was made in Eclipse with Java.
+The graphics were made using Pyxel Edit.
+The music was created using Bosca Ceol.
+The sound effects were made using BFXR.
 
-Made in 48 hours for the Ludum dare compo. 
-http://ldjam.com/
-
-My submission page on Ludum Dare:
-https://ldjam.com/events/ludum-dare/40/$65127
-
-
-If you want to try it out, just grab the jar.
-The rest is the source code, and if your interested to look through that
-go ahead and good luck, it was cobbled together rather quickly to get it 
-working but it should still be helpful in some cases.
-
-This project was made in Eclipse with java, for graphics: Pyxel Edit, 
-for music: Bosca Ceol, and for sound effects I used BFXR.
+## Controls
+- WASD or Arrow Keys to move
+- Space to jump
+- Any of those to respawn
